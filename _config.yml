@@ -1,5 +1,5 @@
-theme: minima
+theme: nishimu
 title: {{ Yuto }}'s personal blog
-description: This is where I share cool stuff about my life
+description: This is where I explain about my life
 author: {{ Yuto }}
 
